@@ -10,4 +10,22 @@ public class Person {
 	public Long id;
 
     public String name;
+
+    public int age;
+
+    /*public Long getId() {
+        return id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }*/
 }
